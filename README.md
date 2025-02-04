@@ -1,1 +1,0 @@
-# Diabetes_prediction_app_ML
